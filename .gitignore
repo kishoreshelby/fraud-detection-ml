@@ -1,0 +1,27 @@
+# Ignore dataset
+data/*.csv
+data/*.xlsx
+
+# Ignore model files
+models/*.pkl
+models/*.joblib
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
