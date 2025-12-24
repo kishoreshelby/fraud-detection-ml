@@ -4,7 +4,7 @@
 
 This project focuses on detecting fraudulent transactions using Machine Learning techniques. It simulates a real-world credit card fraud detection system by handling highly imbalanced data, applying preprocessing techniques, and training robust ML models.
 
-The project is designed to be **internship-ready and industry-oriented**, with a clean folder structure, modular code, and reproducible results.
+The project is designed to be ** industry-oriented**, with a clean folder structure, modular code, and reproducible results.
 
 ---
 
@@ -135,19 +135,8 @@ These files can be reused for deployment or real-time prediction systems.
 B.E Computer Science and Engineering (4th Year)
 University College of Engineering, Ramanathapuram
 
-📍 Location: Chennai / Coimbatore / Bangalore
+📍 Location: Pudukkottai
 📧 Email: [kishorekrish.k28@gmail.com](mailto:kishorekrish.k28@gmail.com)
-
----
-
-## ⭐ Internship Ready Project
-
-This project is suitable for internships in:
-
-* Machine Learning
-* Data Science
-* AI Engineering
-* FinTech Analytics
 
 ---
 
